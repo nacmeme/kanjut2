@@ -4,10 +4,9 @@
 #######################################################
 # Name           : Multi BF (MBF) <cookie method>     #
 # File           : run.py                             #
-# Author         : DulLah
-# Recode        : Andrian                    #
-# Github         : https://github.com/nacmeme           #
-# Facebook       : https://www.facebook.com/nacmeme3    #
+# Author         : DulLah                             #
+# Github         : https://github.com/dz-id           #
+# Facebook       : https://www.facebook.com/dulahz    #
 # Telegram       : https://t.me/unikers               #
 # Python version : 2.7                                #
 #######################################################
